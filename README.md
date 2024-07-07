@@ -45,8 +45,10 @@ git clone https://github.com/kennethng2168/EzSeek
 pip install -r requirements.txt
 
 ### Usage
+Install the ckpt file from [Google Drive](https://drive.google.com/drive/folders/19DvmOfsvnP8m6WpPkYe2AJYmiH4ROzvn?usp=sharing)
 Run the backend server:
 python app.py
+
 
 
 
