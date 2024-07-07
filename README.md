@@ -4,6 +4,9 @@ An AI shop assistance with the idea of Multimodal RAG product search, virtual tr
 
 
 ## Features and Functionality
+Features | Functionality | Assets/APIs Used
+:-------------------------:|:-------------------------:|:-------------------------:
+test | test | test
 
 ### Development Tools
 Python 
@@ -40,7 +43,6 @@ git clone https://github.com/kennethng2168/EzSeek
 
 ### Install dependencies:
 pip install -r requirements.txt
-npm install
 
 ### Usage
 Run the backend server:
@@ -51,18 +53,18 @@ python app.py
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Team
-Kenneth Ng - Project Manager, studying computer engineering
+## Team Background
+Kenneth Ng - Computer engineering
 
-Teh Chen Ming - AI engineer, studying computer science specialism in data analyst 
+Teh Chen Ming - Computer science specialism in data analyst 
 
-Lau Yi Jing  - developer, studying Electrical and Electronic Engineering 
+Lau Yi Jing  - Electrical and Electronic Engineering 
 
 ## Acknowledgements
 Special thanks to our mentors and advisors.
 
 Thanks to (https://www.kaggle.com/datasets/devi5723/e-commerce-cosmetics-dataset) for providing the sample data.
 
-Thanks to stable diffusion model in hugging face
+Thanks to stable diffusion model in hugging face and opensource model IDM-VTON
 
-Thanks to our mentor Mr.Lau
+Thanks to our mentor Dr. Lau
