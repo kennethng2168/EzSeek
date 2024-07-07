@@ -1,5 +1,4 @@
-# EzSeek: Simplify Shopping with GenAI and ESG Rewards
-
+# EzSeek: Simplify Shopping with GenAI for productivity and promoting ESG
 
 
 ## Overview
