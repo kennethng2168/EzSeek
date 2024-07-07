@@ -11,7 +11,7 @@ Download videos to view the functionalities and features
 | [Virtual Try On](Videos/Virtual_Try_on.mp4) | Experience virtual try-on for clothing products. | IDM-VTON opensource |
 | [ESG Rewards Stable Diffusion](Videos/ESG_Rewards_Stable_Diffusion.mp4) | Showcase how our system promotes ESG and SDG products to redeem rewards after purchasing or scroll the content up to specific hours | huggingface stable-diffusion-xl-base-1.0 |
 | [RAG](Videos/RAG.mp4) | Demonstrate the Multimodal RAG product search functionality. | Gemini API |
-| [TikTok Player OEmbed](Videos/TikTok_player_OEmbed.mp4) | Integration with TikTok Player OEmbed feature. | TikTok Official API |
+| [TikTok Player OEmbed](Videos/TikTok_player_OEmbed.mp4) | Integration with TikTok Player OEmbed feature. | TikTok Official API OEmbed with author URL and TikTok Player |
 
 ### Development Tools
 - **Python**: For backend development.
