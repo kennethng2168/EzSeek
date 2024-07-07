@@ -40,7 +40,7 @@ Productivity with Multimodal and LLM RAG
 Text-to-Image,
 Images-to-Images
 ## Installation and Setup for FastAPI to interact with Mobile App
-### Download Weights ckpt and Replace into the ckpt in Virtual Try On
+### Download Weights ckpt and Replace with the Backend/VirtualTryOn-OpenSource/ckpt
 [Download Here](https://drive.google.com/drive/folders/19DvmOfsvnP8m6WpPkYe2AJYmiH4ROzvn?usp=sharing)
 
 ### For RAG
