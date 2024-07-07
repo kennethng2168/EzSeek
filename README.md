@@ -4,12 +4,16 @@
 ## Overview
 EzSeek is an AI-driven online shopping assistance system that leverages Multimodal Retrieval-Augmented Generation (RAG) for advanced product search and virtual try-on features. The system also promotes products aligned with Environmental, Social, and Governance (ESG) goals and Sustainable Development Goals (SDG) by using AI-Generated Images (Stable Diffusion) to support environmental sustainability.
 
+## Development Tools
+- Flutter (IOS/Android)
+- Python
+
 ## Features and Functionality
 Download videos to view the functionalities and features
 | Videos | Features & Functionality | Assets/APIs Used |
 |:-------:|:-------------------------:|:-----------------:|
 | [Virtual Try On](Videos/Virtual_Try_on.mp4) | Experience virtual try-on for clothing products. | IDM-VTON opensource |
-| [ESG Rewards Stable Diffusion](Videos/ESG_Rewards_Stable_Diffusion.mp4) | Showcase how our system promotes ESG and SDG products to redeem rewards after purchasing or scroll the content up to specific hours | huggingface stable-diffusion-xl-base-1.0 |
+| [ESG Rewards Stable Diffusion](Videos/ESG_Rewards_Stable_Diffusion.mp4) | Showcase how our system promotes ESG and SDG products to redeem rewards after purchasing or scroll the content up to specific hours | huggingface stable-diffusion-xl-base-1.0 and White TikTok Horizontal Logo Assets |
 | [RAG](Videos/RAG.mp4) | Demonstrate the Multimodal RAG product search functionality. | Gemini API |
 | [TikTok Player OEmbed](Videos/TikTok_player_OEmbed.mp4) | Integration with TikTok Player OEmbed feature. | TikTok Official API OEmbed with author URL and TikTok Player |
 
