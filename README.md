@@ -4,9 +4,14 @@ An AI shop assistance with the idea of Multimodal RAG product search, virtual tr
 
 
 ## Features and Functionality
-Features | Functionality | Assets/APIs Used
+
+Videos | Features & Functionality | Assets/APIs Used
 :-------------------------:|:-------------------------:|:-------------------------:
-test | test | test
+[Virtual Try On](Videos/Virtual_Try_on.mp4) | Description of Virtual Try On feature | Relevant APIs or assets
+[ESG Rewards Stable Diffusion](Videos/ESG_Rewards_Stable_Diffusion.mp4) | Description of ESG Rewards feature | Relevant APIs or assets
+[RAG](Videos/RAG.mp4) | Description of RAG feature | Relevant APIs or assets
+[TikTok Player OEmbed](Videos/TikTok_player_OEmbed.mp4) | Description of TikTok Player OEmbed feature | Relevant APIs or assets
+
 
 ### Development Tools
 Python 
