@@ -4,10 +4,6 @@
 ## Overview
 EzSeek is an AI-driven online shopping assistance system that leverages Multimodal Retrieval-Augmented Generation (RAG) for advanced product search and virtual try-on features. The system also promotes products aligned with Environmental, Social, and Governance (ESG) goals and Sustainable Development Goals (SDG) by using AI-Generated Images (Stable Diffusion) to support environmental sustainability.
 
-## Development Tools
-- Flutter (IOS/Android)
-- Python
-
 ## Features and Functionality
 Download videos to view the functionalities and features
 | Videos | Features & Functionality | Assets/APIs Used |
@@ -20,7 +16,7 @@ Download videos to view the functionalities and features
 ### Development Tools
 - **Python**: For backend development.
 - **FastAPI**: For building the API.
-- **Flutter**: For frontend development.
+- **Flutter**: For frontend development (Cross Platform)
 
 ### APIs Used
 - **Oembed API**: For embedding and integrating content for TikTok Player in main screen and TikTok auth Url using Oembed API.
