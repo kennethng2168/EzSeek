@@ -72,3 +72,22 @@ run main.dart
 ```bash
 git clone https://github.com/kennethng2168/EzSeek
 ```
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Team Background
+Kenneth Ng - Computer engineering
+
+Teh Chen Ming - Computer science specialism in data analyst 
+
+Lau Yi Jing  - Electrical and Electronic Engineering 
+
+## Acknowledgements
+Special thanks to our mentors and advisors.
+
+Thanks to (https://www.kaggle.com/datasets/devi5723/e-commerce-cosmetics-dataset) for providing the sample data.
+
+Thanks to stable diffusion model stabilityai/xl-base in hugging face and opensource model IDM-VTON
+
+Thanks to our mentor Dr. Lau
